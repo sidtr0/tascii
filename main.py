@@ -1,4 +1,4 @@
-import lib
+from tascii import *
 
-print(lib.a)
-print(lib.b)
+print(a)
+print(b)

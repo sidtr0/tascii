@@ -1,4 +1,8 @@
 
+# ! FUNCTIONS 
+
+
+
 # ! LETTERS
 
 a = """
